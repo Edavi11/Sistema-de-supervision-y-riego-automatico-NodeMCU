@@ -1,0 +1,59 @@
+body,html{
+  height: 100%;
+  background-image: radial-gradient(#16c79a,#00917c);
+  font-size: 14px;
+}
+
+html {
+  font-family: Arial;
+  display: inline-block;
+  margin: 0px auto;
+  text-align: center;
+}
+
+h1 {
+  color: black;
+  padding: 1.5vw;
+  font-size: 3rem;
+}
+p {
+  color: black;
+  font-size: 1.5rem;
+}
+.button {
+  display: inline-block;
+  background-color: #00bcd4;
+  border: 1px solid black;
+  border-radius: 4px;
+  color: black;
+  padding: 16px 40px;
+  text-decoration: none;
+  font-size: 30px;
+  margin: 2px;
+  cursor: pointer;
+}
+
+.button:hover{
+  background-color: #004d40;
+}
+
+.button2 {
+  color: black;
+  background-color: #00acc1;
+}
+
+.button2:hover{
+  background-color: #34626c;
+}
+.units {
+  font-size: 1.2rem;
+ }
+.sensor-labels {
+  font-size: 1.5rem;
+  vertical-align:middle;
+  padding-bottom: 15px;
+}
+
+span{
+  font-size: 1.5rem;
+}
